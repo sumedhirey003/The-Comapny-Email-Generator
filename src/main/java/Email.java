@@ -29,16 +29,6 @@ public class Email {
         //System.out.println("Your email is: "+email);
     }
 
-    //ask for the department
-//    private String setDepartment(){
-//        System.out.println("New Employee: "+ firstName+ ". \nEnter Department CODES\n1 for sales\n2 for Development\n3 For Accounting\n0 For None\nEnter Department Code:");
-//        Scanner in = new Scanner(System.in);
-//        int deptChoice = in.nextInt();
-//        if(deptChoice == 1) {return "sales";}
-//        else if(deptChoice == 2) {return "dev";}
-//        else if (deptChoice == 3) {return "acct";}
-//        else {return "";}
-//        }
 
     //generate a random password
     private String randomPassword(int length){

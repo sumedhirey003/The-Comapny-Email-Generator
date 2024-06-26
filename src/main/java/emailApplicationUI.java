@@ -102,4 +102,5 @@ public class emailApplicationUI {
                 "\nYour MailBox Capacity is "+ email.getMailboxCapacity()+"mb" +
                 "\nGenerated Email and (temp)Password " + JOptionPane.INFORMATION_MESSAGE );
     }
+    //end of the project
 }
